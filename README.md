@@ -1,3 +1,5 @@
+Srithika Thummala - 700778790
+
 1. Mini-BPE Learner
 
 This code implements a simple Byte Pair Encoding (BPE) algorithm from scratch.
